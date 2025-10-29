@@ -67,4 +67,26 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [React Documentation](https://react.dev/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+- [React Router Documentation](https://reactrouter.com/)
+
+  ##screenshots of my app 
+
+<img width="1822" height="842" alt="image" src="https://github.com/user-attachments/assets/76a26dff-5eed-4c6d-afbf-767143b45cec" />
+
+<img width="1830" height="837" alt="image" src="https://github.com/user-attachments/assets/3e9ae7e4-0e32-43e8-9041-5c8d610eca90" />
+<img width="973" height="827" alt="image" src="https://github.com/user-attachments/assets/dd0dc151-b4b3-43de-956a-228bf34f3a78" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
